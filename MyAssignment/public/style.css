@@ -1,0 +1,25 @@
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+.container > .table > a {
+    text-decoration: none;
+}
+body {
+	background-color: gray;
+}
+.container{
+	line-height: 0.8;
+}
+.container > .alert{
+	line-height: 2;
+	margin-top: 10px;
+}
+.container input:focus {
+    border: 3px solid #555;
+}
+.container > h1{
+	font-weight: bold;
+	padding-left: 37.5%;
+}
